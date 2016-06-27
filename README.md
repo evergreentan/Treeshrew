@@ -4,8 +4,8 @@
 This repository serves as a documentation for data cleaning related to my third-year field paper. 
 
 - Field paper: Information Technology and Sagging Employment Growth of Non-Routine Cognitive Occupations Since 2000
-- Lauch date: 06/27/2016
- 
+- Launch date: 06/27/2016
+- Suggested deadline: 07/15/2016 
 ## Datasets:
 
 This section lists the main three datasets I have been working with for my field paper. I plan to redo all the data cleaning and analysis in python during the summer before my fourth year. 
