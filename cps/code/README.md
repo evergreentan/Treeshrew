@@ -4,6 +4,7 @@
 - 0. Data 
   - IPUMS CPS raw data
   - Crosswalk
+
 ## Overview
 - 1. Prepare
   - Create flags: employment staus, private/public
