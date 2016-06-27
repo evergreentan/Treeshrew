@@ -1,4 +1,4 @@
-## cps Folder
+# cps Folder
 
-# python_code
+## python_code
 This subfolder stores python codes for cleaning CPS data.
